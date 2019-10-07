@@ -7,8 +7,7 @@ wrapper {
 }
 
 body {
-    font-family: "Roboto","Hiragino Kaku Gothic Pro","Meiryo","Gill Sans","Gill Sans MT",
-                "Myriad Pro","DejaVu Sans Condensed",Helvetica,Arial,sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
     margin: 0;
 }
